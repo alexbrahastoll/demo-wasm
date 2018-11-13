@@ -3,7 +3,7 @@ A simple WebAssembly demo as a continuation to the lecture given
 at Fatec Mogi das Cruzes (at Nov. 6th, 2018).
 
 If you can read Portuguese, I recommend you take a look at the
-[article](https://alexbs.com.br/blog/wasm-intro.html) related to this repo in my personal website.
+[article](http://alexbs.com.br/blog/wasm-intro.html) related to this repo in my personal website.
 
 This demo uses Emscripten to compile a simple C program (that calculates
 and prints the first Fibonacci sequence numbers) to WebAssembly (.wasm).
